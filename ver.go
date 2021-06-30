@@ -1,5 +1,5 @@
 package calver
 
 func Ver() string {
-	return "0.2106.0.0"
+	return "0.2106.0.1"
 }
